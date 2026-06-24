@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mudassir</h1>
-<h3 align="center">A Passionate Front End Developer.</h3>
+<h3 align="center">A Passionate MERN Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-mudassir-arain&label=Profile%20views&color=0e75b6&style=plastic" alt="m-mudassir-arain" /> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS , JavaScript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/m-mudassir-arain](https://github.com/m-mudassir-arain)
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **MERN Stack development**
 
 - 📫 How to reach me **mmudassirarain04@gmail.com**
 
